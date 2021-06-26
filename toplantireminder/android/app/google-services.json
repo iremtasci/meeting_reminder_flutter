@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089132894379",
+    "project_id": "reminder-809e0",
+    "storage_bucket": "reminder-809e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089132894379:android:e886603f0e4bb91a6c7fee",
+        "android_client_info": {
+          "package_name": "com.example.toplantireminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089132894379-sc34p2u180hlfpk6i5ruj6p817eoms7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toplantireminder",
+            "certificate_hash": "fc16c9a730bf23d02a36047c0905e4fbb9dbb290"
+          }
+        },
+        {
+          "client_id": "1089132894379-tp2kvkd4hsf6ffim64j4h1hb0thkm5q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyVMLe7ulfmH4ugsDJNfomLp9hAdS7Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089132894379-tp2kvkd4hsf6ffim64j4h1hb0thkm5q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
